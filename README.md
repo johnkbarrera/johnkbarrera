@@ -1,5 +1,6 @@
 # Hi, I'm John Kevin Barrera 👋
 ![Profile Views](https://komarev.com/ghpvc/?username=johnkbarrera&color=blueviolet&style=flat-square)
+
 <sub>📧 Email: johnkevinbarrera@gmail.com | 📱 Phone: +(51) 967016935</sub> | 
 
 <div align="center">
