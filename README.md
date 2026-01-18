@@ -22,7 +22,7 @@
 **Data Scientist Consultant @ The World Bank** | Computer Scientist from Peru passionate about leveraging AI and data science for social impact. Specialized in graph theory, machine learning, and scalable data architectures.
 
 🔬 Currently: Health systems risk assessment using ML & graph theory  
-🎓 MS Computer Science - PUCP | 📄 [Published Research](https://link.springer.com/chapter/10.1007/978-3-030-76228-5_32)
+🎓 MS Computer Science - PUCP | 📄 [Published Research](http://hdl.handle.net/20.500.12404/30812)
 
 ---
 
