@@ -1,4 +1,4 @@
-# Hi, I'm John Kevin Barrera 👋
+# Hi, I'm John K. Barrera C. 👋
 
 <p align="left">
   <sub>📧 johnkevinbarrera@gmail.com | 📱 +(51) 967016935</sub>
