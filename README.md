@@ -1,5 +1,7 @@
 # Hi, I'm John Kevin Barrera 👋
 
+<sub>📧 Email: johnkevinbarrera@gmail.com | 📱 Phone: +(51) 967016935</sub>
+
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9FFF&center=true&vCenter=true&width=435&lines=Data+Scientist+%7C+ML+Engineer;Graph+Theory+%26+AI+Specialist;Tech+for+Social+Impact)](https://git.io/typing-svg)
@@ -10,8 +12,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/johnkbarrera)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=-u4Q3zAAAAAJ&hl=es)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/johnkbarrera)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/johnkbarrera)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://johnkbarrera.github.io)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnkevinbarrera@gmail.com)
 
 </div>
 
