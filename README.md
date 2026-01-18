@@ -1,7 +1,7 @@
 # Hi, I'm John K. Barrera C. 👋
 
 <p align="left">
-  <sub>📧 johnkevinbarrera@gmail.com | 📱 +(51) 967016935</sub>
+  <sub>📧 johnkevinbarrera@gmail.com | 📱 john.barrera@unmsm.edu.pe </sub>
   <img align="right" src="https://komarev.com/ghpvc/?username=johnkbarrera&color=blueviolet&style=flat-square" alt="Profile views"/>
 </p>
 
