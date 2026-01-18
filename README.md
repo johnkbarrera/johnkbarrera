@@ -12,6 +12,10 @@
 </tr>
 </table>
 
+<p align="left">
+  <sub>📧 johnkevinbarrera@gmail.com | 📱 +(51) 967016935</sub>
+  <img align="right" src="https://komarev.com/ghpvc/?username=johnkbarrera&color=blueviolet&style=flat-square" alt="Profile views"/>
+</p>
 
 
 
